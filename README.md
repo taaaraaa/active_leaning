@@ -8,7 +8,7 @@ Active learning is mostly used when there is a shortage of labelled data. It is 
 You will need to install python and import the following libraries to use this code:
 - Pandas
 - Numpy
-
+- sklearn
 
 ## Setup: 
 To get started with active learning using these codes, you need to:
