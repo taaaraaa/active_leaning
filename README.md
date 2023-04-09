@@ -18,4 +18,4 @@ To get started with active learning using these codes, you need to:
 
 
 ## Dataset
-Titanic Dataset
+Titanic Dataset. This dataset is clean (other than missing values!) so in this example, you won't need to do EDA!
